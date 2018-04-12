@@ -135,14 +135,14 @@ main img{
 	float: left;
 	width: 30px;
 	height: 30px;
-	margin-left: 10px;
+	/* margin-left: 10px; */
 }
 #weizhi2{
 	float: left;
 	white-space: nowrap;
 	height: 30px;
 	/* background: green; */
-	margin-left: 16px;
+	margin-left: 10px;
 	font-size: 18px;
 	line-height: 30px;
 	color: #BBBBBB;

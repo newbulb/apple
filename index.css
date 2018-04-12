@@ -192,17 +192,19 @@ main img{
 	float: left;
 	width: 50%;
 	height: 400px;
+	
 }#fig1-1 a{
 	display: block;
 	width: 100%;
 	height: 100%;
+	overflow: hidden;
 }
 #fig1-1 a img{
 	width: 100%;
 	height: 100%;
 }
-#fig1-1 a:hover{
-	transform: scale(1.02,1.02);
+#fig1-1 a img:hover{
+	transform: scale(1.1,1.1);
 }
 #fig1-1{
 	margin-right: 1%;
@@ -234,13 +236,14 @@ main img{
 	display: block;
 	width: 100%;
 	height: 100%;
+	overflow: hidden;
 }
 #fig2 li a img{
 	width: 100%;
 	height: 100%;
 }
 #fig2 li a img:hover{
-	transform: scale(1.02, 1.02);
+	transform: scale(1.1, 1.1);
 }
 #fig3{
 	width: 1000px;
@@ -253,13 +256,14 @@ main img{
 	display: block;
 	width: 100%;
 	height: 100%;
+	overflow: hidden;
 }
 #fig3 a img{
 	width: 100%;
 	height: 100%;
 }
 #fig3 a img:hover{
-	transform: scale(1.02, 1.02);
+	transform: scale(1.1, 1.1);
 }
 /* 产品中心 */
 
@@ -305,13 +309,14 @@ main img{
 	display: block;
 	width: 100%;
 	height: 100%;
+	overflow: hidden;
 }
 #section3 ul li a img{
 	width: 100%;
 	height: 100%;
 }
 #section3 ul li a img:hover{
-	transform: scale(1.02, 1.02);
+	transform: scale(1.1, 1.1);
 }
 /* 案例中心 */
 

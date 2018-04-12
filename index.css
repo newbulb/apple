@@ -396,12 +396,14 @@ main img{
 #section5 ul li a{
 	color: #333333;
 	font-size: 18px;
+	letter-spacing: 1px;
 	text-decoration: none;
 	list-style: none;
 }
 #section5 ul li p{
 	font-size: 14px;
 	color: #888888;
+	letter-spacing: 1px;
 }
 #section5 ul li a:hover{
 	color: #ff0000;

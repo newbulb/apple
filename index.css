@@ -2,8 +2,8 @@ header{
 	width: 100%;
 	height: 76px;
 	/* background: grey; */
-/* 	margin-top: 10px;
- */	position: absolute;
+	/* margin-top: 10px; */
+	position: absolute;
 	top: 0;
 	left: 0;
 }
@@ -32,7 +32,7 @@ header:hover{
 	height: 30px;
 	/* background: red; */
 	margin-left: 70px;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 #header2 ul{
 	width: 100%;
@@ -67,7 +67,7 @@ header:hover{
 	float: left;
 	width: 180px;
 	height: 30px;
-	margin-top: 30px;
+	margin-top: 20px;
 	margin-left: 35px;
 	/* background: green; */
 }
@@ -108,6 +108,7 @@ header:hover{
 main{
 	width: 100%;
 	height: 600px;
+	/* background: green; */
 	margin: 0 auto;
 	/* margin-top: 10px; */
 }
@@ -128,7 +129,7 @@ main img{
 	color: #333333;
 	margin: 0 auto;
 	text-align: center;
-	font-size: 40px;
+	font-size: 36px;
 	line-height: 42px;
 	margin-top: 20px;
 }
@@ -145,6 +146,7 @@ main img{
 #kh2{
 	width: 1000px;
 	height: 30px;
+	/* background: red; */
 	color: #333333;
 	margin: 0 auto;
 	font-size: 30px;
@@ -156,19 +158,20 @@ main img{
 
 #section{
 	width: 100%;
-	height: 670px;
-	background: #d1eaf4;
+	height: 640px;
+	/* background: #d1eaf4; */
 	margin-top: 30px;
-	padding-top: 20px;
 }
 #section1{
 	width: 100%;
 	height: 400px;
-	margin-top: 30px;
+	/* background: red; */
+	margin-top: 20px;
 }
 #section2{
 	width: 1000px;
 	height: 400px;
+	/* background: #d1eaf4; */
 	margin: 0 auto;
 }
 #fig{
@@ -177,6 +180,7 @@ main img{
 	color: #333333;
 	font-size: 30px;
 	margin: 0 auto;
+	margin-top: 10px;
 }
 #fig1{
 	width: 1000px;
@@ -269,7 +273,7 @@ main img{
 
 #section3{
 	width: 1000px;
-	height: 700px;
+	height: 660px;
 	/* background: #d1eaf4; */
 	margin: 0 auto;
 	margin-top: 30px;
@@ -285,7 +289,7 @@ main img{
 	width: 100%;
 	height: 590px;
 	/* background: green; */
-	margin-top: 30px;
+	margin-top: 20px;
 }
 #section3 ul li{
 	float: left;
@@ -322,7 +326,7 @@ main img{
 
 #section4{
 	width: 100%;
-	height: 430px;
+	height: 390px;
 	/* background: yellow; */
 	margin-top: 30px;
 }
@@ -340,7 +344,7 @@ main img{
 	height: 330px;
 	/* background: yellow; */
 	display: flex;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 #section4 ul li{
 	/* float: left; */
